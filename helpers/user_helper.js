@@ -1,4 +1,4 @@
-iport { randFullName, randEmail } from "@ngneat/falso";
+import { randFullName, randEmail } from "@ngneat/falso";
 
 export const createRandomUser = () => {
     const data = {
